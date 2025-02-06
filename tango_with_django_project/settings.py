@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
+#username for superuser is 2895695M and password is my uni login password
+
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
